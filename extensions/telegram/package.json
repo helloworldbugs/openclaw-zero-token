@@ -1,0 +1,8 @@
+{
+  "name": "telegram",
+  "version": "2026.2.19",
+  "type": "module",
+  "openclaw": {
+    "extensions": ["./index.js"]
+  }
+}
